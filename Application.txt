@@ -2,3 +2,4 @@ Nouvelle application logicielle
 @mystos
 @armin
 @florianbrioude
+@jg42
